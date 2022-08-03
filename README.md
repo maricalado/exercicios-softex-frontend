@@ -1,2 +1,2 @@
-# softex-frontend
-Curso front-end da Softex
+# exercicios-softex-frontend
+Exercícios do curso front-end da Softex
