@@ -1,2 +1,8 @@
-# exercicios-softex-frontend
-Exercícios do curso front-end da Softex.
+### exercicios-softex-frontend
+# Exercícios do curso front-end da Softex.
+
+## _**• Módulo 02**_
+> Desenvolvimento 15 - bomba
+> Desenvolvimento 16 - calculadora
+> Desenvolvimento 17 - calculadora 2
+> Desenvolvimento 18 - idade
