@@ -2,7 +2,8 @@
 # Exercícios do curso front-end da Softex.
 
 ## _**• Módulo 02**_
-> Desenvolvimento 15 - bomba
-> Desenvolvimento 16 - calculadora
-> Desenvolvimento 17 - calculadora 2
-> Desenvolvimento 18 - idade
+> Desenvolvimento 15 - bomba<br />
+> Desenvolvimento 16 - calculadora<br />
+> Desenvolvimento 17 - calculadora 2<br />
+> Desenvolvimento 18 - idade<br />
+
