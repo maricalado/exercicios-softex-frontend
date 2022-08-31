@@ -1,0 +1,4 @@
+Tudo pronto! Ambiente configurado.
+Optei pelo editor de texto VSCode, devido a sua versatilidade, pois pode ser usado para
+várias outras linguagens, basta instalar os plug-ins e extensões necessárias de acordo com a sua 
+necessidade, além de ser super fácil de configurar e utilizar =).
