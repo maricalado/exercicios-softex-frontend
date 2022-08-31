@@ -1,6 +1,8 @@
 ### exercicios-softex-frontend
 # Exercícios do curso front-end da Softex.
 
+## _**Lógica**_
+
 ## _**• Módulo 02**_
 > Desenvolvimento 15 - bomba<br />
 > Desenvolvimento 16 - calculadora<br />
@@ -12,3 +14,4 @@
 ## _**• Módulo 04**_
 > Desenvolvimento 25 - string<br />
 > Desenvolvimento 26 - Serializacao<br />
+> Desenvolvimento 27 - try-catch_calculator<br />
