@@ -11,3 +11,4 @@
 
 ## _**• Módulo 04**_
 > Desenvolvimento 25 - string<br />
+> Desenvolvimento 26 - Serializacao<br />
