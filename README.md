@@ -22,4 +22,4 @@
 > Desenvolvimento 02 - config-ambiente<br />
 
 ## _**• Módulo 02**_
-> Desenvolvimento 04 - calculadora<br />
+> Desenvolvimento 05 - calculadora<br />
