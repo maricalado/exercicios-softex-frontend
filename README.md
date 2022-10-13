@@ -24,3 +24,6 @@
 ## _**• Módulo 02**_
 > Desenvolvimento 05 - calculadora<br />
 > Desenvolvimento 06 - sistema-notas/media-aluno e sistema-notas/nota-minima<br />
+
+## _**• Módulo 03**_
+> Desenvolvimento 01 - imagem.png<br />
