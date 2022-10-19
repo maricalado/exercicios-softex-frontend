@@ -33,3 +33,4 @@
 ## _**• Módulo 04**_
 > Desenvolvimento 04 - backend-node<br />
 > Desenvolvimento 05 - funcao-for<br />
+> > Desenvolvimento 06 - bancodedados<br />
